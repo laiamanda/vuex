@@ -1,5 +1,8 @@
 # vuex
 
+# description
+this repo is to understand vuex
+
 # Run the code
 1. Run npm_install
 2. Run run serve
