@@ -1,7 +1,9 @@
 # vuex
 
-# description
-this repo is to understand vuex
+# Description
+This repo is to understand vuex
+
+![Vuex Homepage](https://github.com/laiamanda/vuex/blob/main/vuex-asset/home.PNG "Title")
 
 # Run the code
 1. Run npm_install
